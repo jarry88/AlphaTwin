@@ -1,9 +1,5 @@
 site_name: AlphaTwin
-theme:
-  name: material
-  palette:
-    scheme: slate  # Dark mode, looks like trading terminal
-    primary: teal
+theme: material
 markdown_extensions:
   - pymdownx.superfences
 nav:
