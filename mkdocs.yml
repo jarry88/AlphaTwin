@@ -24,6 +24,8 @@ nav:
     - Clean Data Importance: data/clean_data_importance.md
   - Workflow:
     - Code-to-Content: workflow/code_to_content.md
+  - Project:
+    - Development Milestones: project_milestones.md
   - Phase 3:
     - MVP First Week: phase3/mvp_first_week.md
   - Manual:
