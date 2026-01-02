@@ -6,8 +6,6 @@ theme:
     primary: teal
 markdown_extensions:
   - pymdownx.superfences
-plugins:
-  - mkdocs-mermaid2-plugin
 nav:
   - Home: index.md
   - Architecture:
