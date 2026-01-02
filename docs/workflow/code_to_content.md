@@ -5,7 +5,7 @@
 
 ## Overview
 
-The Code-to-Content Workflow is a revolutionary approach that merges software development with content creation, enabling consistent production of 2 videos per week. Instead of treating coding and filming as separate massive tasks, they become integrated into a single efficient workflow.
+The content Workflow is a revolutionary approach that merges software development with content creation, enabling consistent production of 2 videos per week. Instead of treating coding and filming as separate massive tasks, they become integrated into a single efficient workflow.
 
 ## Core Philosophy
 

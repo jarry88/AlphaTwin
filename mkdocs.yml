@@ -10,6 +10,8 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+plugins:
+  - mkdocs-mermaid2-plugin
 nav:
   - Home: index.md
   - Architecture:
@@ -22,6 +24,8 @@ nav:
   - Data:
     - Schema & Standards: data/data_schema.md
     - Clean Data Importance: data/clean_data_importance.md
+  - Tutorials:
+    - Overview: tutorials/overview.md
   - Workflow:
     - Code-to-Content: workflow/code_to_content.md
   - Project:
