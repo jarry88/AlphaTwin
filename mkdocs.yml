@@ -26,6 +26,7 @@ nav:
     - Code-to-Content: workflow/code_to_content.md
   - Project:
     - Development Milestones: project_milestones.md
+    - Current Status Summary: current_status_summary.md
   - Phase 3:
     - MVP First Week: phase3/mvp_first_week.md
   - Manual:
