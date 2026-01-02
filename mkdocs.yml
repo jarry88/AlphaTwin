@@ -13,4 +13,5 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Architecture: architecture/tech_stack.md
-  - Dev Logs: logs/
+  - Dev Logs:
+    - Week 1 Setup: logs/week1_setup.md
