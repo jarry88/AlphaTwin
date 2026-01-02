@@ -12,6 +12,12 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
   - Home: index.md
-  - Architecture: architecture/tech_stack.md
+  - Architecture:
+    - Technology Stack: architecture/tech_stack.md
+    - System Design: architecture/system_design.md
+  - Requirements:
+    - MVP Goals: requirements/mvp_goals.md
+  - Manual:
+    - Runbook: manual/runbook.md
   - Dev Logs:
     - Week 1 Setup: logs/week1_setup.md
