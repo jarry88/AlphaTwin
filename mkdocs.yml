@@ -1,7 +1,5 @@
 site_name: AlphaTwin
 theme: material
-markdown_extensions:
-  - pymdownx.superfences
 nav:
   - Home: index.md
   - Architecture:
