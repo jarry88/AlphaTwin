@@ -1,41 +1,16 @@
 site_name: AlphaTwin
-site_description: Quantitative Trading Platform
-site_author: AlphaTwin Team
-
 theme:
   name: material
   palette:
-    primary: blue
-    accent: blue
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
-
-plugins:
-  - search
-  - mermaid2
-
+    scheme: slate  # Dark mode, looks like trading terminal
+    primary: teal
 markdown_extensions:
-  - pymdownx.highlight
-  - pymdownx.superfences
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  - toc:
-      permalink: true
-
 nav:
   - Home: index.md
-  - Architecture: architecture/
-  - Strategies: strategies/
-  - Logs: logs/
+  - Architecture: architecture/tech_stack.md
+  - Dev Logs: logs/

@@ -50,9 +50,10 @@ Thumbs.db
 # data/raw/
 # data/processed/
 
-# Logs
+# Logs (but allow docs/logs for development documentation)
 *.log
 logs/
+!docs/logs/
 
 # Jupyter Notebook
 .ipynb_checkpoints
