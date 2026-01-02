@@ -17,6 +17,10 @@ nav:
     - System Design: architecture/system_design.md
   - Requirements:
     - MVP Goals: requirements/mvp_goals.md
+    - Phase 2: Data Factory: requirements/phase2_data_factory.md
+  - Data:
+    - Schema & Standards: data/data_schema.md
+    - Clean Data Importance: data/clean_data_importance.md
   - Manual:
     - Runbook: manual/runbook.md
   - Dev Logs:

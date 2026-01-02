@@ -60,15 +60,14 @@ graph TB
 
 Ready to explore the world of quantitative trading?
 
-[🚀 Quick Start Guide](getting-started.md) | [📚 API Documentation](api/) | [💡 Strategy Examples](strategies/)
+[� Operations Manual](manual/runbook.md) | [🏗️ System Architecture](architecture/system_design.md) | [🎯 MVP Requirements](requirements/mvp_goals.md)
 
 ## Community
 
 Join our community of quantitative traders and developers:
 
-- [GitHub Repository](https://github.com/alphatwin/alphatwin)
-- [Discussion Forum](https://github.com/alphatwin/alphatwin/discussions)
-- [Contributing Guidelines](contributing.md)
+- [GitHub Repository](https://github.com/jarry88/AlphaTwin)
+- [Discussion Forum](https://github.com/jarry88/AlphaTwin/discussions)
 
 ---
 
