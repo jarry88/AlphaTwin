@@ -20,3 +20,22 @@ extra:
       link: https://youtube.com/@zhipengGu  # 以后填你的频道
     - icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/243759710 # B站
+
+nav:
+  - Home: index.md
+  - The System (Architecture):  # 把架构、技术栈、可视化图合并
+      - Blueprint: architecture/system_map.md  # 最帅的 Mermaid 图放在第一位
+      - Tech Stack: architecture/tech_stack.md
+      - Infrastructure: manual/runbook.md      # 怎么运行这个项目
+  - Quant Lab (Core Modules):   # 核心业务逻辑（Phase 2-4 的成果）
+      - Data Factory:
+          - Schema & Cleaning: data/data_schema.md  # 数据架构
+          - Data Loader: requirements/phase2_data_factory.md # 数据工厂实现
+      - Analysis Engine:
+          - Metrics Definition: analysis/metrics_definition.md # 你的金融数学公式
+          - Parameter Scanner: requirements/mvp_goals.md   # 参数扫描逻辑
+  - Project Management:         # 你的个人工作流（给硬核粉丝看）
+      - Roadmap: project_milestones.md
+      - Workflow: management/workflow.md
+      - Dev Logs: logs/week1_setup.md
+      - Resources: resources/inspiration.md
