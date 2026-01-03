@@ -1,27 +1,2 @@
 site_name: AlphaTwin
 theme: material
-nav:
-  - Home: index.md
-  - Architecture:
-    - Technology Stack: architecture/tech_stack.md
-    - System Design: architecture/system_design.md
-    - Quant-Lab Design: architecture/quant_lab_design.md
-  - Requirements:
-    - MVP Goals: requirements/mvp_goals.md
-    - Phase 2: Data Factory: requirements/phase2_data_factory.md
-  - Data:
-    - Schema & Standards: data/data_schema.md
-    - Clean Data Importance: data/clean_data_importance.md
-  - Tutorials:
-    - Overview: tutorials/overview.md
-  - Workflow:
-    - Code-to-Content: workflow/code_to_content.md
-  - Project:
-    - Development Milestones: project_milestones.md
-    - Current Status Summary: current_status_summary.md
-  - Phase 3:
-    - MVP First Week: phase3/mvp_first_week.md
-  - Manual:
-    - Runbook: manual/runbook.md
-  - Dev Logs:
-    - Week 1 Setup: logs/week1_setup.md
