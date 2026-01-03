@@ -1,2 +1,22 @@
 site_name: AlphaTwin
-theme: material
+theme:
+  name: material
+  # 强制暗色模式 (Slate)
+  palette:
+    scheme: slate
+    primary: teal
+    accent: cyan
+  # 启用一些高级功能
+  features:
+    - content.code.copy  # 代码块右上角显示复制按钮（对观众很友好）
+    - navigation.top     # 返回顶部按钮
+    - navigation.instant # 像单页应用一样加载（速度极快）
+# 添加页脚社交链接（为你的视频引流）
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jarry88/AlphaTwin
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@zhipengGu  # 以后填你的频道
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/243759710 # B站
